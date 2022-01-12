@@ -6,9 +6,9 @@
 1. First fork this repo by clicking Fork icon 🍴 on top right corner & then clone your repo using command
 
 ```
-$. git clone https://github.com/your_github_username/Edfoal.github.io.git
+$. git clone https://github.com/your_github_username/repo_url
 or
-$. git clone git@github.com:your_github_username/Edfoal.github.io.git
+$. git clone git@github.com:your_github_username/repo_url
 ```
 2. Change directory & add upstream repository URL
 ```
