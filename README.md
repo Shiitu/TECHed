@@ -13,9 +13,9 @@ $. git clone git@github.com:your_github_username/repo_url
 2. Change directory & add upstream repository URL
 ```
 $. cd Edfoal.github.io/
-$. git remote add upstream https://github.com/Edfoal/Edfoal.github.io.git
+$. git remote add upstream https://github.com/Shiitu/TECHed.git
 or
-$.git remote add upstream git@github.com:Edfoal/Edfoal.github.io.git
+$.git remote add upstream git@github.com:Shiitu/TECHed.gitit
 ```
 3. Always Pull recent changes from upstream repository before doing any work then checkout different branch other than main
 ```
